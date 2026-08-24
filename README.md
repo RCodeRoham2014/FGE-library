@@ -121,5 +121,5 @@ run()
 *   **Parenting:** Always pass the `root` object obtained from `screen()` as the `parent` argument to `label()` and `button()`.
 *   **Coordinate System:** Remember that Y increases upwards in FGE's coordinate system.
 ***
-##Creator : 
+Creator : 
 RCode ™
